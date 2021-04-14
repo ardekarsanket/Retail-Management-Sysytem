@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="img">
+    <file>success-icon-23194.png</file>
+    <file>back2.png</file>
+    <file>back1.png</file>
+  </qresource>
+</RCC>

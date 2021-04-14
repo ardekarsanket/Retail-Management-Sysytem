@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="images">
+    <file>bar_code.png</file>
+    <file>barcode.png</file>
+    <file>invoice.png</file>
+    <file>bill.png</file>
+    <file>inventory.png</file>
+    <file>storage.png</file>
+    <file>back2.png</file>
+    <file>profile.png</file>
+    <file>back.png</file>
+    <file>supplier.png</file>
+    <file>employees.png</file>
+  </qresource>
+</RCC>
